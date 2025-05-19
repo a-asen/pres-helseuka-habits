@@ -1,0 +1,91 @@
+---
+title: "Psykologi"
+author: "Steffen Rygg Aasen" 
+date: "2025.05.22"
+format: 
+  revealjs:
+    incremental: true
+    theme: simple
+    css: custom.css
+---
+
+## Om meg
+
+-   Steffen Rygg Aasen
+
+-   Fra Sotra (utenfor Bergen)
+
+-   Utdanning ved UiT
+
+    -   Bachelor i Psykologi
+    -   Forskerlinje i Psykologi
+    -   Master i Psykologi
+    -   Tar nå en doktorgrad i Psykologi ved UiT
+
+## Temaer {#tema-valg}
+
+:::: columns
+
+::: {.column width="50%"}
+<a href="#/vaner" class="topic-box">
+  <h3>Vaner 🔄</h3>
+  <p>Hvordan det vi gjør til vanlig påvirker oss</p>
+</a>
+<a href="#/soovn" class="topic-box ">
+  <h3>Søvn  😴</h3>
+  <p>Hvorfor er det så vanskelig å konsentrere seg?</p>  
+</a>
+:::
+
+::: {.column width="50%"}
+<a href="#/mer-om-meg" class="topic-box mer-om-meg">
+  <h3>Mer om meg</h3>
+  <p>Hvorfor valgte jeg Psykologi? Hva har jeg lært?</p>  
+</a>
+<!-- <a href="#/min-forskning" class="topic-button mer-om-meg"> -->
+<!--   <h3>Mer om meg</h3> -->
+<!--   <p>Hvorfor valgte jeg Psykologi? Hva har jeg lært?</p>   -->
+<!-- </a> -->
+:::
+
+::::
+
+# Vaner {#vaner}
+- Hva er en vane?
+
+::: notes
+- Hva?  En vane er det du gjør til "vanlig" (vane-lig) 
+:::
+
+## Vaner
+
+-   En vane er det vi "<b>van(e)</b>ligvis" gjør.
+
+
+::: notes
+Kan dere tenke ut en ting dere vanligvis gjør? 
+Jeg: 
+- Pusser tenner før jeg legger meg
+- Våkne kl 07:00 
+
+
+- Mer vitenskapelig sier vi gjerne at det er en situasjon 
+:::
+
+<!-- Add to the last slide on the topic -->
+::: back-container
+<a href="#/tema-valg" class="back-button">↩️ Til temavalg</a>
+:::
+
+
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!-- En ny seksjon om et annet tema -->
+
+## Mer om meg {#mer-om-meg}
+::: back-container
+<a href="#/tema-valg" class="back-button">↩️ Til temavalg</a>
+:::
+
+-   

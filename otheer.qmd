@@ -1,0 +1,13 @@
+---
+title: "otheer"
+format: html
+---
+
+:::{.r-stack auto-animate=true}
+<!-- Sør norge -->
+![](images/clipboard-1967034260.png){.fragment width="50%"}
+
+<!-- Bergen/Sotra -->
+![](images/clipboard-2319142793.png){.fragment .zoom-in .fade-in width="55%"}
+:::
+
