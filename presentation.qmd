@@ -1,7 +1,9 @@
 ---
-title: "Psykologi"
+title: "Vaner"
 author: "Steffen Rygg Aasen" 
-date: "2025.05.22"
+date: "2025-05-22"
+filters:
+   - roughnotation
 format: 
   revealjs:
     incremental: true
@@ -9,83 +11,291 @@ format:
     css: custom.css
 ---
 
+
+## 
+
+::: notes
+
+Jeg har lyst å snakke om vaner med dere ettersom jeg mener dette er ett av de enkleste og skumleste fenomenene vi har, nettopp fordi det er så simpelt. Det er uten tvil det som påvirker oss mest, så det å ha litt kunnskap om hva det er, hvordan det fungerer, og hvordan det kan brukes gjør at du kan komme så mye lengre i livet. 
+
+:::
+
 ## Om meg
 
--   Steffen Rygg Aasen
-
+-   Tar nå en doktorgrad i Psykologi ved UiT
 -   Fra Sotra (utenfor Bergen)
-
 -   Utdanning ved UiT
 
-    -   Bachelor i Psykologi
-    -   Forskerlinje i Psykologi
-    -   Master i Psykologi
-    -   Tar nå en doktorgrad i Psykologi ved UiT
+    -   Bachelor i Psykologi (3 år)
+    -   Forskerlinje i Psykologi (1 år + parallelt med Master)
+    -   Master i Psykologi (2 år + parallelt med Forskerlinje)
 
-## Temaer {#tema-valg}
-
-:::: columns
-
-::: {.column width="50%"}
-<a href="#/vaner" class="topic-box">
-  <h3>Vaner 🔄</h3>
-  <p>Hvordan det vi gjør til vanlig påvirker oss</p>
-</a>
-<a href="#/soovn" class="topic-box ">
-  <h3>Søvn  😴</h3>
-  <p>Hvorfor er det så vanskelig å konsentrere seg?</p>  
-</a>
-:::
-
-::: {.column width="50%"}
-<a href="#/mer-om-meg" class="topic-box mer-om-meg">
-  <h3>Mer om meg</h3>
-  <p>Hvorfor valgte jeg Psykologi? Hva har jeg lært?</p>  
-</a>
-<!-- <a href="#/min-forskning" class="topic-button mer-om-meg"> -->
-<!--   <h3>Mer om meg</h3> -->
-<!--   <p>Hvorfor valgte jeg Psykologi? Hva har jeg lært?</p>   -->
-<!-- </a> -->
-:::
-
-::::
-
-# Vaner {#vaner}
-- Hva er en vane?
+## Hva er en vane?
+-   En vane er det vi "<b>van(e)</b>ligvis" gjør
+-   Det er en automatisk atferd/response...
+-   ... som blir startet av en viss situasjon (et "cue")
 
 ::: notes
-- Hva?  En vane er det du gjør til "vanlig" (vane-lig) 
+- En (S) vane er en "vanelig" ting. 
+
+- EX1 -- Før jeg legger meg, pusser jeg tennene. 
+- EX2 -- Jeg våkner klokken kl 07:00 om morningen, oftest uten alarm, men har den alltid på. Det har blitt vanlig for meg å våkne på dette tidspunktet, også i helgene. I utgangspunktet gjør jeg dette for å holde rutinen eller vanen. Det er en noe forskning, for eksemple, som tyder på at noen person kan reagere mer på forandring av søvn heller enn lengen på søvn -- jeg har en lite mistanke om at dette gjelder for all. Jeg ser for meg at det å holde en konsistent rutine er bedre for deg enn ikke. 
+
+- SPR -- Hva er en vanelig ting dere gjør?
+
+- En mer vitenskapelig formulering beskriver en vane some en (S) automatisk atferd/response. Og med dette menes det at det kreves minimalt med kognitive ressurser -- i mange situasjoner kreves det ingenting! 
+
+- En automatisk response eller atferd er en eller annen atferd som er godt inn-øvd, slik som for eksempel tann pussing eller sykling. Jeg tror de færreste av dere tenker noe særlig over at eller hvordan dere pusser tennene deres. Stort sett så skjer det av selg selv. Du kan kanskje merke dette hvis du kun bruker en hånd til å pusse tennen. Hvis du prøve å bytte hånd -- i mitt tilfelle pusser jeg alltid med høyre, men jeg prøver noen ganger å gjøre det med venstre, men jeg merker hvor rart og hvor dårlig den siden pusser enn høyre siden -- du kan gjerne prøve det hjemme og se. 
+
+- På samme vis, så tror jeg de fleste av dere tenker noe særlig over hva dere gjør når dere sykler -- du bare gjør det og klarer det. Er det noen som klarer å forklare hva dere gjør når dere sykler. Sykling har gjennom erfaring blitt en automatisk atferd -- det er noe du klarer uten å tenke over hva du faktisk gjør. Du klarer gjerne ikke bare å holde balansen, mens du trør og holder styringen, men du klarer også gjerne å holde en samtale. Dette er svært imponerende og er relatert til hvordan denne atferden er blitt "automatisk" (og gjerne implisitt -- det er en form for kunnskap du ikke har direkte tilgang til). 
+
+- Disse eksemplene illustrerer en automatisk atferd og er en essensiell del av vaner.
+
+- Det siste leddet av en mer vitenskapelig definisjon er at den automatisk atferden/responsen er (S) relatert/startet i en viss situasjon. Jeg går ikke nå på gulvet med en tanke om at jeg skal bevege beina mine i en syklende bevegelse, og jeg styrer ikke hvor jeg skal gå i forhold til ett ratt. Kunnskapen om å fungere på en sykkel er relatert il situasjonen hvor jeg er på sykkelen. 
+
+- Har dere noen andre eksempler på en vane? (vent litt på en response) 
 :::
 
-## Vaner
 
--   En vane er det vi "<b>van(e)</b>ligvis" gjør.
+## Min kaffe-vane
 
+::: {.r-stack}
+![](images/IMG_20250521_104315_461.jpg){.fragment .absolute left=0 top=70}
+![](images/IMG_20250521_104623_908.jpg){.fragment .absolute left=30 top=80}
+![](images/IMG_20250521_104225_031.jpg){.fragment .absolute left=60 top=90}
+![](images/IMG_20250521_072317_453.jpg){.fragment .absolute left=90 top=100}
+:::
 
 ::: notes
-Kan dere tenke ut en ting dere vanligvis gjør? 
-Jeg: 
-- Pusser tenner før jeg legger meg
-- Våkne kl 07:00 
+-   Min kaffe vane på UiT
+    - Setter på vannkokeren på kjøkkenet...
+    - Går til kontoret, legger fra meg sekken...
+    - Jeg lager så klar kaffee med bønner og diverse. 
+    - Jeg tar det så med tilbake på kjøkkenet og (S) lager en god kopp kaffe. 
 
+-   Dette er kanskje en av de enkleste og tydligste eksemplene på en vane. Det er en afterd som blir gjort i en viss (når jeg kommer på UiT) situasjon. I denne situasjonene jeg så er konteksten at jeg kommer til UiT for å begynne å jobbe -- jeg setter på vann, jeg henter kaffe og jeg lager meg kaffe. Belønningen er jo også da at jeg får en god kopp med kaffe når jeg jobber. 
 
-- Mer vitenskapelig sier vi gjerne at det er en situasjon 
+-   Situasjonen er ikke at jeg går i korridoren for å komme til toalettet, men er mer kontekstuell med at jeg også har på meg jakke, sekk og gjerne lue. 
+
+-   Ett av de fundamental problemene med vaner er at dem er automatisk. Selv om jeg liker å tro at "jeg har kontroll" -- jeg kan velge å ikke lage en kopp kaffe så er det often ikke alltid like lett. Selv om jeg absolutt kan jeg la være å lage en kopp kaffee er det often vanskelig å la være. Hvis jeg ikke lager en kopp kaffee kan jeg føle på ett ubehag, som om noe mangler, og jeg kan slite med å jobbe. Jeg mangler rett og slett noe å drikke på mens jeg jobber -- eller jeg mangler den automatiske responsen hvor jeg kan ta litt drikke mens jeg tar en pause fra skrivingen/lesingen. Jeg kan jo drikke vann tenker du kanskje, men det er ikke den samme smaken som kaffe -- av flere grunner til at det problematisk å ikke drikke kaffe, fordi kaffe inneholder koffeine som kan skape en form for fysisk avhengighet -- en fysiologiske response som krever koffeine i situasjonen. Hvis jeg skal prøve å redusere koffeien drikkingen i løpet av en dag tar jeg heller en kopp eller to med te. Da er rutinene det samme, bare ett annet innhold. 
+
+<!-- Tror poenget mitt her heller er at jeg drikker kaffe når jeg jobber om morningen, og det er ubehagelig å ikke drikke kaffe når jeg jobber om morgenene. Dette er en situasjon hvor atferden av kaffe er mens jeg jobber, og ikke det å lage den i seg selv, tror eg.  -->
+
+-   Når alt dette er sagt så har dere kanskje forstått hvordan vaner påvirker oss fysisk.
+
+-   Dere er kanskje skjent med vaner, men ikke nødvendigivs gjennom vaner slik jeg nå har beskrevet det, men heller som en (S)
 :::
 
-<!-- Add to the last slide on the topic -->
-::: back-container
-<a href="#/tema-valg" class="back-button">↩️ Til temavalg</a>
+## Uvane og avhengighet 
+
+-   Uvane = dårlige vane
+-   Avhengighet = dårlig vane som er vanskelig å komme over
+
+::: notes
+-   Vi sier gjerne at en uvane er en dårlig vane, men som ikke nødvedigivs er så farlig. 
+-   Videre på spekteret finner vi en avhengighet, som ikke bare er en dårlig vane, men kan også være farlig og spesielt vanskelig å komme over. 
+
+-   En "uvane" er gjerne en vane vi har men gjerne ikke vil ha. Jeg kan si at min vane om å drikke kaffe mens jeg jobber om morningen kan være en uvane -- ettersom at det er noe jeg nesten må ha for å fungere, og det at jeg føler ett ubehag og sliter med å konsentrere meg om å jobbe. Dette kan også beskrives som en avhengighet -- noe som er skjent med koffeien. 
+
+-   Avhengighet er ikke nødvendigvis bare en relatert til en vane -- altså en automatisk atferd i en viss situasjon, men det kan faktisk også være en fysisk avhengighet -- egentlig litt det jeg beskriver om kaffe drikkingen min. 
+
+-   Det ligger gjerne i disse to ordene en viss forståelse om valens. Du kan ha en god vane - du kan ha en vane av å trene, for eksempel. Du vil ikke si at dette er en "uvane". En uvane blir ofte forstått som en vane som ikke nødvendigvis er så bra for deg, men fortsatt ikke er så gale. Går vi litt videre så sier vi gjerne avhengighet. Dette er en type atferd som gjerne er dårlig og vanskelig å komme over. 
+
+-   Er det noen som har en uvane? 
+
+-   ?? Er det noen av dere som drikker energidrikke? Når drikker dere energi drikken? Tror dere at dere har kontroll? 
+-   ?? Er det noen som vil si dem er avhengig av telefonen sin? I hvilke situasjoner bruker du telefonen din? 
+
+-   EX1: Jeg merker at jeg noen ganger kan ta fram telefonen, åpne den, også vet jeg ikke helt hvorfor jeg gjorde det, siden det ikke var noe jeg skulle sjekke eller ønsket å sjekke. Likevel tok jeg opp telefonen og låste den opp for å stirre på alle appene jeg har uten å ønske å gjøre noe mer. Det er en ting jeg fortsatt gjør og er egentlig bare en dårlig vane. Det gir meg ingenting, men det er svært lett for slike atferder å sette seg.
+
+-   EX2: Når jeg var yngre hadde jeg en vane eller en uvane av å alltid komme hjem for å spille videospill. 
+
+Til slutt endte jeg opp med å sette meg foran PCen uten at jeg egentlig ville -- det var bare alltid det jeg gjorde. 
 :::
 
 
+## 
 
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-<!-- En ny seksjon om et annet tema -->
+::: notes
 
-## Mer om meg {#mer-om-meg}
-::: back-container
-<a href="#/tema-valg" class="back-button">↩️ Til temavalg</a>
+-   Selv om vi som ofte forstår vaner ut ifra automatiske "handlinger" eller "atferder" trenger det ikke bare være det. 
+-   Det jeg mener er absolutt skumlest med vaner er at det også er relatert til det (S) kognitive eller tankesett.
+
 :::
 
--   
+## Det kognitive
+
+## Det kognitive - tankesett
+
+-   Ett <b>sett</b> med tanker (tankemønstre) om hvordan vi ...
+    - <h2>👀</h2>
+    - <h2>💭</h2>
+    - <h2>💡</h2>
+    <!-- 📚 -->
+
+::: notes
+-   Det kogitive  eller tankesett, er ett sett med tanker eller tankemønstre om hvordan vi ser, tenker og forstår verden. 
+-   Dette har en svært fundamental påvirkning på hvordan vi fungerer i hverdagen. Disse settene med tanker eller "måter å tenke på" påvirker gjerne hvordan du føler deg, hva du tror du klarer og hva du tenker du klarer. 
+
+-   Hvis du har en tanke om at du ikke liker utfordringer, og du så ikke klarer en utfordring, forsterker du gjerne din egen tro om at du ikke er en person som klarer en utfordring. Eller enda verre, kanskje du får en tro om at du er en person som ikke takler eller tørr å ta utfordringer. Når du da kommer til en ny utfordring i framtiden vil du gjøre en mye større innsats for å unngå utfordringen. 
+
+ANNET
+-   Hvis du tror du er en person som ikke klarer å sitte still for å lese en bok, så er har du innstillingene som gjerne vil gjøre dette vanskelig.
+-   Tenker du på en viss måte kan dette føre til at du ender opp i ett dårling mønster som skaper en situasjon hvor du ender opp med å sitte fast.  
+:::
+
+
+## Negativ feedback loop
+
+::: {.r-stack}
+![](images/negative-loop-1.svg){.fragment width=800 .absolute top=50 left=400 .fade-in-then-out}
+![](images/negative-loop-2.svg){.fragment width=800 .absolute top=50 left=400 .fade-in-then-out}
+![](images/negative-loop-3.svg){.fragment width=800 .absolute top=50 left=400 .fade-in-then-out}
+![](images/negative-loop-4.svg){.fragment width=800 .absolute top=50 left=400 .fade-in-then-out}
+![](images/negative-loop-5.svg){.fragment width=800 .absolute top=50 left=400 .fade-in-then-out}
+![](images/negative-loop-6.svg){.fragment width=800 .absolute top=50 left=400 .fade-in-then-out}
+
+:::
+
+::: notes
+-   Visse tanker kan føre til en negative loop. For eksempel, hvis du spør en venn om å henge og dem sier dem er opptatt kan du kanskje tolke svaret som at han ikke liker deg. Dette kan igjen føre til at du tenker at "jeg er ikke en person å like", og når dette har skjedd så er du ikke lange steget unna å ikke gidde å spørre folk "fordi du ikke er en person som blir likt". Og så plutselig så sitter du fast... Plutselig er du blitt en person som ikke er sosial som en var en gang... Plutselig distanserer en seg... Plutselig isolerer en seg selv... 
+
+-   Med storm skritt nærmer du deg en depresjon. Disse tankene og handlingene blir ofte selvforsterkende og gjør dermed tankesettet gjerne sterkere. Over tid er disse settene av tankene blitt til "deg". Du "har ikke lengre disse tankene", du "er den personen". Du har blitt fanget. Du har blitt fanget av ett tankesett. En automatisk måte å tenke om deg selv og hva du kan få til. Dette er ekstremt skummelt. Selv etter ditt beste ønske om å ikke tenke negativt om deg selv, om å tro at du ikke får til, vil det skje -- det skjer automatisk. Kanskje du føler deg litt ukonfortabel i en situasjon, også plutselig kommer taneken automatisk -- "jeg er ikke verdt det; jeg er ikke en person å like; ingen vil være meg meg".
+
+:::
+
+## Hvordan kommer du deg ut? 
+
+-   Se/merk følelsen/tanken 
+-   Sett ord på følelsen/tanken 
+-   Erstatt tanken/følelsen 
+
+::: {.r-stack}
+![](images/pos-loop-1.svg){.fragment width=800 .absolute top=70 left=400 .fade-in-then-out}
+![](images/pos-loop-2-1.svg){.fragment width=800 .absolute top=70 left=400 .fade-in-then-out}
+![](images/pos-loop-2-2.svg){.fragment width=800 .absolute top=70 left=400 .fade-in-then-out}
+![](images/pos-loop-3-1.svg){.fragment width=800 .absolute top=70 left=400 .fade-in-then-out}
+![](images/pos-loop-3-2.svg){.fragment width=800 .absolute top=70 left=400 .fade-in-then-out}
+![](images/pos-loop-4.svg){.fragment width=800 .absolute top=70 left=400 .fade-in-then-out}
+
+:::
+
+::: notes
+-   ?? Hvordan kan en komme seg ut av en negative loop -- vane av å tenkte ned på seg selv -- en uvane?
+-   ?? Har dere noen en idee om hvordan en kan komme seg ut av ett slikt mønster ??
+
+-   En av tingene er å prøve å merke tanken. Se følelsen. Merk hvilke tanker som faller inn i en viss situasjon. 
+-   Videre så beskriv til deg selv hva du føler. Beskriv til deg selv hva du tenker. Når du klarer å si til deg selv hva du føler og hvilke tanker du har kan du jobbe videre med dette. 
+
+-   Hvis vi går tilbake til eksemplet om hvor du spør noen du kjenner om å henge. Om du så får en tanke om at "han like ikke meg", så kan du merke dette. "Nå ser jeg at jeg tenker negativt". Når du ser hva du tenker og/eller føler, kan du beskrive "reframe" -- forandre hvordan du ser på situasjonen. Du kan si "han er sikkert bare opptatt", og at du da fortsatt kan (og bør) spørre om å henge igjen i framtiden. 
+
+-   Et viktig aspekt å forstå seg på her er nemlig at det å være en slik person -- en person som spør om å henge, som viser sin interesse i å være med andre, er svært verdifult. Du får andre folk til å føle seg likt og verdsatt. Møter du på de rette folkene kan dette redde liv, og generelt framstår dette, ikke bare til personen du spør, men personen som ser at du spør, som en svært god egenskap. En person som bryr seg. En peson som er interessert. Og vi liker slike personer. 
+
+-   EX1:  Jeg kjente på meg selv at jeg var/er litt nervøs for å presentere for dere, men kjenner ikke like må på det. Jeg kan beskrive følelsen jeg har som at dette er noe jeg ikke klarer -- men jeg kan også beskrive det som noe jeg kan. Ikke bare det men jeg kan ha ett pespektiv om at jeg egentlig ikke vet hva jeg snakker om, og dette er ikke akkurat mitt felt, men jeg tror jeg kan snakke om det. Dere har kanskje opplevd å se på noe presentere som ikke er så flink. Dette kan du gjerne se ut fra hvordan dem selv engasjerer seg selv i presenteringen. Hvis dem holder tilbake. Engasjerer seg mindre med publikum, og ellers gjør ting som virker mindre "confident". Hvis dere ser det, er det svært sannsynlig at person selv også føler det. 
+
+-   EX2:  Jeg hadde en periode der jeg nesten alltid endt opp med å kjøp en sjokolade før jeg gikk til kassen i  butikken. En av løsningene jeg endte opp med å bruke var å alltid bestemme før jeg gikk i butikken hva jeg skulle ha -- og det var det. Gå rett inn i butikken, handle det jeg hadde bestemt meg for og gå raskt forbi snopet. Til slutt kom jeg over vanen om å kjøpe med meg en sjokolade, men hadde jo da også fått en vane om å alltid bestemme meg hva jeg skal kjøpe i butikken før jeg går inn i butikken.  
+:::
+
+
+## Lær å sykle på nytt <span style="font-size: 34px;">[@SmarterEveryDay](https://www.youtube.com/@smartereveryday)</span>
+<iframe width="1200" height="640" src="https://www.youtube.com/embed/MFzDaBzBlL0?si=4ly10OIvNFaEel_h&amp;start=206" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+::: notes
+-   Sykling -- Ett eksempel på en svært sterk vane er det å sykle. Er det noen som kjenner til SmarterEveryDay? Han lærer seg i denne videon å sykle på nytt, men omvendt styring. Altså, nå han vil svinge til venstre må han svinge til høyre, og når han vil til høyre må han svinge til venstre. 
+
+-   Svært vedvarende -- Litt av poenget her er at vaner kan være svært vedvarende. Det kan ta uker og måneder å forandre dem på. Dette er en av grunnen til at det er så skummelt: hvis du ønsker å forandre dem krever det en vedvarende atferd. Det krever at du er konsekvent og alltid gjør forandringen. 
+
+-   "Handle som om" -- En måte å forandre hvordan du tenker om deg selv kan ogs å være med å begynne med en adferd. Hvis du ønsker bedre selvtillitt eller å være mer confident kan du begynner å handle som om du er confident. Med å gjøre dette nok vil tankene du har om deg selv forandre seg etter hvordan du handler. Dette er en av de tingene som gjør psykologi interessant og komplisert -- Du kan ha en atferd som påvirker hvordan du tenker, men du kan også ha en tanke som påvirker hvordan du handler. Når du handler på en viss måte, vil du til slutt begynne å "tenke" -- fordi du handler som du gjør -- at du er en slik person.  PÅ lignende vis, hvis du er en person som tenker på en viss måte vil atferden raskt følge etter. Hvis du tenker du er confident vil ofte atferd om at du  er det følge nært etter. 
+:::
+
+
+## Hvordan etablere en vane?
+
+-   Vær konsekvent
+-   Ett steg om gangen
+-   Tydelige signaler ("cues") 
+    - Bruk spesielle <b>situasjoner/tegn</b> som signal
+
+::: notes
+-   For å etablere gode vaner så må vi være konsekvent med atferden. 
+-   Hvis du ønsker å trene mer er eller bør ikke målet være å trene hardt eller lenge, men å være konsekvent med å komme deg til treningen. Hvis du ønsker å bli sterkere for eksemple, ikke begynn med å trene hardt eller lenge. Begynn med å komme deg til gymmen hver fastsatte dag. Si at du ønsker å trene mandag, onsdag og fredag, uansett hva du gjør disse dagene, kom deg til gymmen, om du så bare går på mølla i 10 minutt eller gjør en øvelse. Bra!  Du kom deg til gymmen. Det er det som teller. Gjør du dette over uker og potensielt måneder vil det begynne å bli automatisk. Du vil måtte gi minimalt med kontroll over å komme deg til gymmen nettopp fordi det er blitt en "vane". 
+
+-   Ett annet svært viktig element er at du gjerne trenger tydelige signaler eller situasjoner (eller cues). Hvis vi fortsetter med treningseksempelet så vil en måte å etablere denne rutinen/vanen mer tydelig på -- er å bruke tydelige signaler om at "nå er det trening". Dette kan for eksempel være å gå eller ha med en treningsbag som sier med å gå en spesifikk vei til trening -- en eller annen rute gjøre dette på å alltid gå en 
+
+-   En vane jeg tror mange har er at når en føler seg sliten, så tar en gjerne noe mat eller verre en liten "snack". Gjør du dette nok vil følelsen av å være sliten bli signalet til at "det er på tide med mat" -- "jeg vil ha mat", eller enda verre, det blir den automatisk atferden uansett om du selv ønsker å snacke mindre. 
+
+:::
+
+## The 60 day rule <span style="font-size: 34px;">[@ItsMeRuff](https://www.youtube.com/@ItsMeRuff)</span>
+<iframe width="1200" height="640" src="https://www.youtube.com/embed/eu1K9-xE42Q?si=jskBC13shTTg9KGl&amp;start=34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+::: notes
+En youtuber kjent som "itsmeruff" fulgte akkurat denne prosedyren for å komme i vanen av å jobbe med Youtube:
+
+-   gå på pust
+
+-   Context -- Selv om han i videoen forteller hvordan han gjorde dette hver dag, er det ikke akkurat det som er nødvendig for å etablere en vane. Heller er det viktigere å være ømfintlig med situasjonene eller miljøet du er i. 
+
+:::
+
+## Contextual cues - situasjoner 
+
+:::{.r-stack}
+
+![](images/IMG_20250521_172259_309.jpg){.fragment width=520 height=380 .absolute left=0 top=300}
+
+![](images/IMG_20250521_151101_293.jpg){.fragment width=520 height=380 .absolute right=0 top=300}
+:::
+
+::: notes
+-   Husk på at en vane er også relatert til en "cue" eller situasjon. I stedet for å jobbe litt hver dag, kan du heller si etablere en rutine med å gjøre noe annen hver dag, men i en spesiell situasjon.  
+-   EX1 jobb hjemem  --  For eksemple når jeg ønsker å jobbe hjemme så sitter jeg alltid på spisebord på andre siden fra der jeg pleier å spise mat fra. Dette er fordi at situasjonen (jeg ser da inn mot kjøkkenet) er annerledes enn situasjonen der når jeg spiser (da ser jeg mot stuen). Det er disse situasjonene eller det vi kalle for "contextual cues" som påvirker atferden, oppmerksomheten og automatikken bak.  Når jeg sitter på "jobb siden" av borde 
+
+-   På arbeidssiden føler jeg meg mer fokusert, og jeg er ofte mye mer motivert til å gjøre jobben. Nå  er det ikke bare jobb jeg gjør fra den siden, men alt som er relatert til et spesifikt mål. 
+-   På spisesiden ser jeg ofte på videoer eller serier mens jeg spiser, noe som gjør den siden mye "latere" og mer "avslappet". Det egner seg derfor ikke til å "fokusere" ved. 
+-   Dette er ett essensielt poeng med vaner. Det er den spesifikke situasjonene du er i som er med på å bestemme hvilke automatiske atferder, tanker eller følelser du får. 
+
+:::
+
+<!-- -   En confident person er ikke en person som må si til andre hva enn hen vil være, men som viser gjennom handling det hen er. -->
+<!-- -   Mer illustrativt er en confident person en person som har kontroll på ett monster. -->
+<!-- -   En god person er ikke en som bryr seg om å vinne -- som skryter av å vinne. -->
+<!-- -   En god person er ikke en som plager og ekskluderer andre. -->
+<!-- -   En god person er en som er med på "leken". -->
+<!-- -   En god person er en som inkluderer andre. -->
+
+
+<!-- -   En god person er den personen som er med på sosiale aktiviteter, ikke for å vise seg fram. Er personen som er med på gymmen ikke nødvendigvis for å bli sterk, men for å være sosiale (og kanskje få noen muskler). -->
+<!-- -   En confident person er en person som vet at hen er sterk uten å måtte si det. -->
+<!-- -- en person er med i gymmen, ikke for å nødvendigvis bli sterk, men for å være -->
+<!-- -   En confident person er en som er med på leken uansett vinn eller tap. -->
+<!-- er ikke en person som er en "vinner". En -->
+
+
+## Oppsummering
+
+- Vaner er det vi <b>van(e)</b>ligvis gjør
+    - En automatisk response startet i/av en viss situasjon ("cue")
+    - Adferd
+    - Tanker
+- Negative & positiv loop
+
+::: notes
+-   Vaner er det vi vaneligvis gjør. Det er en rutine. Det er en "default". 
+-   Det skumle med vaner er nettopp at det er så enkelt, men at det har en så stor innvirkning på livene våre. 
+-   Jeg mener at hvis dere forstår hvordan vaner fungerer og oppstår så kan dere kontrollere dem for å få større kontroll i livene deres. 
+-   Vaner påvirker ikke bare atferd, men også tanker. En vanelig atferd er ikke stort annerledes enn en "vanelig" måte å tenke på. Disse settene av mønstre har seriøse konsekvenser for livene våre -- dette er med på å påvirke din selvtillit, selvtrol, ditt handlingsmøster. Og jeg mener uten tvil at tankemønstre er det som vaner påvirker mest. Hvis du sitter med en tanke om at verden er urettferdig, og det er ingenting å få gjort med det, vil du bli en person som heller ikke prøver å gjøre noe med det. Du kan ha de samme tankkene, om at verden er urettferdig, men du kan også ha en tanke om at vi kan gjøre noe med det -- at DU kan gjøre noe med det. 
+
+-   Sist, så har jeg prøvd å illustrere hvordan vaner kan føre til negative og positive "loops" -- spiraler eller effekter. En liten tvil kan utvikle seg til en ekstremt stor skeptisisme -- over tid kan dette føre til at en blir tilbaktrukken og isolerer seg (og dette er ikke bra). 
+:::
+
+
+## Spørsmål?
+
+
+::: notes 
+
+- Hvorfor valgte jeg å studere psykologi? 
+
+
+:::
