@@ -2,13 +2,14 @@
 title: "Vaner"
 author: "Steffen Rygg Aasen" 
 date: "2025-05-22"
-filters:
-   - roughnotation
+project:
+  output-dir: docs
+  output-file: index.html
+  
 format: 
   revealjs:
     incremental: true
     theme: simple
-    css: custom.css
 ---
 
 
